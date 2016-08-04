@@ -19,7 +19,7 @@
     }
   , "dependencies": {
         "uglify-js": "1.2.5"
-      , "ws": "0.4.x"
+      , "ws": "^1.1.1"
       , "xmlhttprequest": "1.4.2"
       , "active-x-obfuscator": "0.0.1"
     }
@@ -29,7 +29,6 @@
       , "jade": "*"
       , "stylus": "*"
       , "socket.io": "0.9.16"
-      , "socket.io-client": "0.9.16"
       , "should": "*"
     }
   , "engines": { "node": ">= 0.4.0" }
